@@ -10,7 +10,7 @@
 
 ## 📖 Abstract & Objectives
 
-This repository functions as the **technical backend for my [Medium Blog](#)**. While my public articles provide high-level conceptual overviews, this archive hosts the rigorous technical notes, mathematical derivations, and "State of the Art" literature reviews that underpin those discussions.
+This repository functions as the **technical backend for my [Medium Blog](https://medium.com/@aghasyedi/list/planck-to-parsec-15e62a8e6b01)**. While my public articles provide high-level conceptual overviews, this archive hosts the rigorous technical notes, mathematical derivations, and "State of the Art" literature reviews that underpin those discussions.
 
 The project aims to bridge the pedagogical gap between conceptual storytelling and formal physics. It consolidates insights from authoritative textbooks, lecture series, and contemporary research papers into unified, self-contained documents. Unlike standard lecture notes, the manuscripts in this repository prioritize:
 
