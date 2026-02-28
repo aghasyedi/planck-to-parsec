@@ -17,6 +17,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 
 | Index  | Document Title / Topic | File Link | Brief Description |
 | :----: | :--- | :--- | :--- |
+| 001 | Empty Space Isn't Empty: Before the Big Bang | [Before Time: Unpacking the Pre-Big Bang Vacuum.pdf](./Before%20Time:%20Unpacking%20the%20Pre-Big%20Bang%20Vacuum.pdf) | Explores the quantum nature of vacuum, the Planck Wall, cosmic inflation, eternal inflation, and the unresolved mystery of quantum gravity in understanding what may have preceded the Big Bang. |
 
 UPCOMING
 
