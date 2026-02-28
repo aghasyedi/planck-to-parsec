@@ -17,6 +17,7 @@ The project aims to bridge the pedagogical gap between conceptual storytelling a
 * **First-Principles Derivation:** Reconstructing complex phenomena—from Superconducting Qubits to Dyson Spheres—from fundamental axioms, ensuring no mathematical step is trivialized.
 * **The "Micro-Macro" Connection:** Highlighting the surprising theoretical links between Quantum Information Science (Micro) and High-Energy Astrophysics (Macro).
 * **Explicit Formalism:** Clearly defining the Hamiltonians, metric tensors, and physical assumptions (e.g., Rotating Wave Approximation, General Relativistic limits) inherent in every model.
+* **Weekly Cadence:** Supporting a dual-track publication schedule—Quantum Insights (Saturdays) and Astrophysical Hypotheses (Sundays).
 
 ## 📂 Research Domains
 
@@ -33,6 +34,12 @@ The archive is segmented into two distinct but connected physical regimes:
 * **Exotic Propulsion:** Physics of Beam-Powered Propulsion (Breakthrough Starshot) and Light Sails.
 * **Megastructures:** Thermodynamics and optical signatures of Dyson Spheres.
 * **Fundamental Tests:** Bell’s Inequality (CHSH) and tests of local realism in cosmology.
+
+### 🌌 The Sunday Hypotheses (Theoretical Frontiers)
+*A dedicated module for exploring one astrophysical theory or hypothesis every Sunday.*
+
+Folder: */expositions*
+Scope: Dark Matter candidates, Singularity theorems, Holographic Principle, and speculative cosmology.
 
 ## 🛠️ Methodology: AI-Augmented Synthesis
 
