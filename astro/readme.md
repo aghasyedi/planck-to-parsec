@@ -2,7 +2,7 @@
 
 Welcome to the `/astro` subdirectory of the **planck-to-parsec** repository. 
 
-This section serves as the formal technical backend for the "Macro" physical regime. It houses the rigorous mathematical formalism, explicit physical assumptions (e.g., General Relativistic limits), and comprehensive notes that underpin the weekly **Sunday Astrophysical Hypotheses** publications.
+This section serves as the formal technical backend for the "Macro" physical regime. It houses the rigorous mathematical formalism, explicit physical assumptions (e.g., General Relativistic limits), and comprehensive notes that underpin the weekly **Saturday Astrophysical Hypotheses** publications.
 
 The manuscripts archived here focus on high-energy phenomena and advanced space concepts, with active research spanning:
 * **Exotic Propulsion:** The physics of Beam-Powered Propulsion (e.g., Breakthrough Starshot) and Light Sails.
