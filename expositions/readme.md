@@ -18,6 +18,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | Index  | Document Title / Topic | File Link | Brief Description |
 | :----: | :--- | :--- | :--- |
 | 001 | Empty Space Isn't Empty: Before the Big Bang | [Before Time: Unpacking the Pre-Big Bang Vacuum.pdf](./Before%20Time:%20Unpacking%20the%20Pre-Big%20Bang%20Vacuum.pdf) | Explores the quantum nature of vacuum, the Planck Wall, cosmic inflation, eternal inflation, and the unresolved mystery of quantum gravity in understanding what may have preceded the Big Bang. |
+| 002 | Big Bang Theory (Georges Lemaître) | [BigBangTheory_PrimevalAtom.pdf](./Big%20Bang%20Theory.pdf) | Explores the transition from the classical static universe to the modern expanding universe paradigm. Beginning with the historical assumption of a static cosmos, the exposition introduces the pioneering work of Georges Lemaître and the mathematical framework of cosmological expansion derived from Albert Einstein’s field equations. |
 
 UPCOMING
 
