@@ -19,6 +19,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | :----: | :--- | :--- | :--- |
 | `0000` | Superconducting Quantum Interference Devices | [`SQUIDs.pdf`](./SQUIDs.pdf) | Principles, explicit derivations, and architectural applications of SQUIDs. |
 | `0001` | Squeezed Light | [`Squeezed Light.pdf`](./Squeezed%20Light.pdf) | Mathematical formalism of squeezed states and quantum noise reduction. |
+| `0002` | CHSH Inequality | [`CHSH Inequality.pdf`](./CHSH%20Inequality.pdf) | Explores Bell nonlocality through the Clauser–Horne–Shimony–Holt (CHSH) inequality, deriving the classical bound under local hidden variable theories and demonstrating its quantum violation up to Tsirelson’s bound. |
 
 UPCOMING . . .
 
