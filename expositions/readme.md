@@ -22,6 +22,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 003 | Simulation Hypothesis (Nick Bostrom) | [Simulation Hypothesis.pdf](./Simulation%20Hypothesis.pdf) | Examines the idea that reality could be an advanced computational simulation |
 | 004 | Simulated Multiverse (Nested Simulation Theory) | [Simulated Multiverse.pdf](./Simulated%20Multiverse.pdf) | Explores infinite layers of simulations forming nested realities |
 | 005 | Fermi Paradox | [Fermi Paradox.pdf](./Fermi%20Paradox.pdf) | Explores why a vast universe shows no signs of intelligent life, despite high probabilities |
+| 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | A probabilistic framework that estimates the number of active, communicative extraterrestrial civilisations in the Milky Way |
 
 UPCOMING
 
