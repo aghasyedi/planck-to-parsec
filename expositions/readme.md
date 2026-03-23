@@ -22,10 +22,10 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 003 | Simulation Hypothesis (Nick Bostrom) | [Simulation Hypothesis.pdf](./Simulation%20Hypothesis.pdf) | Examines the idea that reality could be an advanced computational simulation |
 | 004 | Simulated Multiverse (Nested Simulation Theory) | [Simulated Multiverse.pdf](./Simulated%20Multiverse.pdf) | Explores infinite layers of simulations forming nested realities |
 | 005 | Fermi Paradox | [Fermi Paradox.pdf](./Fermi%20Paradox.pdf) | Explores why a vast universe shows no signs of intelligent life, despite high probabilities |
-| 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | A probabilistic framework that estimates the number of active, communicative extraterrestrial civilisations in the Milky Way |
-| 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Explores the possibility of multiple universes existing simultaneously, each with different physical laws, constants, or histories |
-| 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Proposes that every quantum measurement results in a branching of reality, creating parallel worlds for every possible outcome |
-| 008 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | ... |
+| 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | Estimates the number of communicative extraterrestrial civilisations in the Milky Way |
+| 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Suggests multiple universes exist with different laws, constants, or histories |
+| 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Quantum measurements split reality into parallel worlds for each outcome |
+| 009 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | All possible quantum outcomes exist simultaneously as branching parallel realities |
 
 
 UPCOMING
