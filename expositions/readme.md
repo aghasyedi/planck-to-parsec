@@ -25,7 +25,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | A probabilistic framework that estimates the number of active, communicative extraterrestrial civilisations in the Milky Way |
 | 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Explores the possibility of multiple universes existing simultaneously, each with different physical laws, constants, or histories |
 | 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Proposes that every quantum measurement results in a branching of reality, creating parallel worlds for every possible outcome |
-| 008 | Everettian Multiverse | [Everettian Multiverse.pdf](./.pdf) | ... |
+| 008 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | ... |
 
 
 UPCOMING
