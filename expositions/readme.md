@@ -26,6 +26,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Suggests multiple universes exist with different laws, constants, or histories |
 | 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Quantum measurements split reality into parallel worlds for each outcome |
 | 009 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | All possible quantum outcomes exist simultaneously as branching parallel realities |
+| 010 | Holographic Principle | [Holographic Principle.pdf](./Holographic%20Principle.pdf) | Suggests that a 3D universe can be fully described by information encoded on a 2D boundary |
 
 
 UPCOMING
