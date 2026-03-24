@@ -27,7 +27,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Quantum events spawn parallel universes. |
 | 009 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | Quantum measurement splits reality into branches. |
 | 010 | Holographic Principle | [Holographic Principle.pdf](./Holographic%20Principle.pdf) | Reality is encoded on a boundary surface. |
-
+| 011 | Inflationary Universe Theory| [Inflationary Universe Theory.pdf](./Inflationary%20Universe%20Theory.pdf) | Rapid expansion occurred shortly after the Big Bang. |
 
 UPCOMING
 
