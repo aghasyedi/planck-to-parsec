@@ -17,16 +17,16 @@ Below is the chronological index of available technical manuscripts. Click on th
 
 | Index  | Document Title / Topic | File Link | Brief Description |
 | :----: | :--- | :--- | :--- |
-| 001 | Empty Space Isn't Empty: Before the Big Bang | [Before Time: Unpacking the Pre-Big Bang Vacuum.pdf](./Before%20Time:%20Unpacking%20the%20Pre-Big%20Bang%20Vacuum.pdf) | Explores the quantum vacuum and what may have existed before the Big Bang |
-| 002 | Big Bang Theory (Georges Lemaître) | [BigBangTheory_PrimevalAtom.pdf](./Big%20Bang%20Theory.pdf) | Explains the origin of the expanding universe from Lemaître’s primeval atom concept |
-| 003 | Simulation Hypothesis (Nick Bostrom) | [Simulation Hypothesis.pdf](./Simulation%20Hypothesis.pdf) | Examines the idea that reality could be an advanced computational simulation |
-| 004 | Simulated Multiverse (Nested Simulation Theory) | [Simulated Multiverse.pdf](./Simulated%20Multiverse.pdf) | Explores infinite layers of simulations forming nested realities |
-| 005 | Fermi Paradox | [Fermi Paradox.pdf](./Fermi%20Paradox.pdf) | Explores why a vast universe shows no signs of intelligent life, despite high probabilities |
-| 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | Estimates the number of communicative extraterrestrial civilisations in the Milky Way |
-| 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Suggests multiple universes exist with different laws, constants, or histories |
-| 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Quantum measurements split reality into parallel worlds for each outcome |
-| 009 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | All possible quantum outcomes exist simultaneously as branching parallel realities |
-| 010 | Holographic Principle | [Holographic Principle.pdf](./Holographic%20Principle.pdf) | Suggests that a 3D universe can be fully described by information encoded on a 2D boundary |
+| 001 | Empty Space Isn't Empty: Before the Big Bang | [Before Time: Unpacking the Pre-Big Bang Vacuum.pdf](./Before%20Time:%20Unpacking%20the%20Pre-Big%20Bang%20Vacuum.pdf) | A pre-existing state before the Bang. |
+| 002 | Big Bang Theory (Georges Lemaître) | [BigBangTheory_PrimevalAtom.pdf](./Big%20Bang%20Theory.pdf) | The universe began as a singularity and has been expanding since. |
+| 003 | Simulation Hypothesis (Nick Bostrom) | [Simulation Hypothesis.pdf](./Simulation%20Hypothesis.pdf) | Reality is a computer simulation. |
+| 004 | Simulated Multiverse (Nested Simulation Theory) | [Simulated Multiverse.pdf](./Simulated%20Multiverse.pdf) | Advanced civilizations simulate universes. |
+| 005 | Fermi Paradox | [Fermi Paradox.pdf](./Fermi%20Paradox.pdf) | Questions why we haven't detected alien life despite vast universe. |
+| 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | Estimates number of communicative extraterrestrial civilizations. |
+| 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Multiple universes exist with varying physical laws. |
+| 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Quantum events spawn parallel universes. |
+| 009 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | Quantum measurement splits reality into branches. |
+| 010 | Holographic Principle | [Holographic Principle.pdf](./Holographic%20Principle.pdf) | Reality is encoded on a boundary surface. |
 
 
 UPCOMING
