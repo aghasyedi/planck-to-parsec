@@ -29,6 +29,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 010 | Holographic Principle | [Holographic Principle.pdf](./Holographic%20Principle.pdf) | Reality is encoded on a boundary surface. |
 | 011 | Inflationary Universe Theory| [Inflationary Universe Theory.pdf](./Inflationary%20Universe%20Theory.pdf) | Rapid expansion occurred shortly after the Big Bang. |
 | 012 | Mathematical Universe Hypothesis| [Mathematical Universe Hypothesis.pdf](./Mathematical%20Universe%20Hypothesis.pdf) | Everything is just a mathematical structure. |
+| 013 | Baryogenesis| [Baryogenesis.pdf](./Baryogenesis.pdf) | Matter exceeds antimatter. |
 
 UPCOMING
 
