@@ -18,6 +18,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | Index  | Document Title / Topic | File Link | Brief Description |
 | :----: | :--- | :--- | :--- |
 | `0000` | Beam-Powered Propulsion | [`Beam-Powered Propulsion.pdf`](./Beam-Powered%20Propulsion.pdf) | Mathematical formalism and literature review of beam-powered propulsion concepts. |
+| `0001` | Artemis II Mission Architecture | [`Artemis II.pdf`](./Artemis%20II.pdf) | Rigorous astrodynamics and engineering constraints of the crewed lunar flyby. |
 
 UPCOMING . . . 
 
