@@ -32,7 +32,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 013 | Baryogenesis| [Baryogenesis.pdf](./Baryogenesis.pdf) | Matter exceeds antimatter. |
 | 014 | Dark Matter Theory| [Dark Matter Theory.pdf](./Dark%20Matter%20Theory.pdf) | Invisible matter affects gravity without emitting light. |
 | 015 |Dark Energy Theory | [Dark Energy Theory.pdf](./Dark%20Energy%20Theory.pdf) | An unknown energy drives the universe’s accelerated expansion. |
- 
+| 016 |Black Hole Information Paradox | [Black Hole Information Paradox.pdf](./Black%20Hole%20Information%20Paradox.pdf) | Information may persist despite black hole evaporation. |
 UPCOMING
 
 | `XXXX` | *Add First Title Here* | [`Filename.pdf`](./Filename.pdf) | *Add brief description here.* |
