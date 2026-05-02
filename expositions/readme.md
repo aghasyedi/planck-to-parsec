@@ -33,6 +33,10 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 014 | Dark Matter Theory| [Dark Matter Theory.pdf](./Dark%20Matter%20Theory.pdf) | Invisible matter affects gravity without emitting light. |
 | 015 |Dark Energy Theory | [Dark Energy Theory.pdf](./Dark%20Energy%20Theory.pdf) | An unknown energy drives the universe’s accelerated expansion. |
 | 016 |Black Hole Information Paradox | [Black Hole Information Paradox.pdf](./Black%20Hole%20Information%20Paradox.pdf) | Information may persist despite black hole evaporation. |
+| 017 | Black Hole Thermodynamics | [Black Hole Thermodynamics.pdf](./Black%20Hole%20Thermodynamics.pdf) | Black holes have entropy and temperature, linking gravity and quantum mechanics. |
+| 018 | Habitable Zone Theory | [Habitable Zone Theory.pdf](./Habitable%20Zone%20Theory.pdf) | Region around stars where liquid water can exist on planets. |
+| 019 | Rare Earth Hypothesis | [Rare Earth Hypothesis.pdf](./Rare%20Earth%20Hypothesis.pdf) | Complex life is rare due to specific planetary conditions. |
+| 020 | Panspermia | [Panspermia.pdf](./Panspermia.pdf) | Life seeded Earth from extraterrestrial sources. |
 UPCOMING
 
 | `XXXX` | *Add First Title Here* | [`Filename.pdf`](./Filename.pdf) | *Add brief description here.* |
