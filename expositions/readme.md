@@ -37,6 +37,9 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 018 | Habitable Zone Theory | [Habitable Zone Theory.pdf](./Habitable%20Zone%20Theory.pdf) | Region around stars where liquid water can exist on planets. |
 | 019 | Rare Earth Hypothesis | [Rare Earth Hypothesis.pdf](./Rare%20Earth%20Hypothesis.pdf) | Complex life is rare due to specific planetary conditions. |
 | 020 | Panspermia | [Panspermia.pdf](./Panspermia.pdf) | Life seeded Earth from extraterrestrial sources. |
+| 021 | The Phantom Universe | [The Phantom Universe.pdf](./The%20Phantom%20Universe.pdf) | Exploring the cosmic speed limit, dark matter, causality, black holes, and the hidden architecture of reality beyond light. |
+
+
 UPCOMING
 
 | `XXXX` | *Add First Title Here* | [`Filename.pdf`](./Filename.pdf) | *Add brief description here.* |
