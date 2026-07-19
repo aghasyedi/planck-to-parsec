@@ -39,6 +39,7 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 020 | Panspermia | [Panspermia.pdf](./Panspermia.pdf) | Life seeded Earth from extraterrestrial sources. |
 | 021 | The Phantom Universe | [The Phantom Universe.pdf](./The%20Phantom%20Universe.pdf) | Exploring the cosmic speed limit, dark matter, causality, black holes, and the hidden architecture of reality beyond light. |
 | 022 | Exoplanet Atmosphere Theory| [Exoplanet Atmosphere Theory.pdf](./Exoplanet%20Atmosphere%20Theory.pdf) | Characterizes alien worlds' gases via spectroscopy. |
+| 023 | Exoplanet Migration Theory| [Exoplanet Migration Theory.pdf](./Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
 
 UPCOMING
 
