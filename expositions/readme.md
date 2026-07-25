@@ -40,6 +40,8 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 021 | The Phantom Universe | [The Phantom Universe.pdf](./The%20Phantom%20Universe.pdf) | Exploring the cosmic speed limit, dark matter, causality, black holes, and the hidden architecture of reality beyond light. |
 | 022 | Exoplanet Atmosphere Theory| [Exoplanet Atmosphere Theory.pdf](./Exoplanet%20Atmosphere%20Theory.pdf) | Characterizes alien worlds' gases via spectroscopy. |
 | 023 | Exoplanet Migration Theory| [Exoplanet Migration Theory.pdf](./Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
+| 023 | Exoplanet Migration Theory| [Exoplanet Migration Theory.pdf](./Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
+| 024 | Shadow Biosphere | [Shadow Biosphere.pdf](./Shadow%20Biosphere.pdf) | A hidden form of life may coexist with known life on Earth. |
 
 UPCOMING
 
