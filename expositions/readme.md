@@ -43,6 +43,8 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 023 | Exoplanet Migration Theory| [Exoplanet Migration Theory.pdf](./Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
 | 024 | Shadow Biosphere | [Shadow Biosphere.pdf](./Shadow%20Biosphere.pdf) | A hidden form of life may coexist with known life on Earth. |
 | 025 | Shadow Biosphere Cosmology | [Shadow Biosphere Cosmology.pdf](./Shadow%20Biosphere%20Cosmology.pdf) | Hidden life forms coexist. |
+| 026 | Shadow Brane Theory | [Shadow Brane Theory.pdf](./Shadow%20Brane%20Theory.pdf) | Hidden branes may influence our observable universe. |
+| 027 | Abiogenesis | [Abiogenesis.pdf](./Abiogenesis.pdf) | Life arises naturally from non-living matter through chemical processes. |
 
 UPCOMING
 
