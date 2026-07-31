@@ -45,8 +45,8 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 025 | Shadow Biosphere Cosmology | [Shadow Biosphere Cosmology.pdf](./Shadow%20Biosphere%20Cosmology.pdf) | Hidden life forms coexist. |
 | 026 | Shadow Brane Theory | [Shadow Brane Theory.pdf](./Shadow%20Brane%20Theory.pdf) | Hidden branes may influence our observable universe. |
 | 027 | Abiogenesis | [Abiogenesis.pdf](./Abiogenesis.pdf) | Life arises naturally from non-living matter through chemical processes. |
-| 028 | Hawking Radiation Theory (Stephen Hawking) | [Hawking Radiation Theory.pdf](./Hawking%20Radiation%20Theory.pdf) | Black holes evaporate via quantum radiation. |
-| 029 | Cosmic Microwave Background Anisotropy (George Smoot, John Mather) | [Cosmic Microwave Background Anisotropy.pdf](./Cosmic%20Microwave%20Background%20Anisotropy.pdf) | Tiny fluctuations in CMB reveal early universe structure. |
+| 028 | Hawking Radiation Theory | [Hawking Radiation Theory.pdf](./Hawking%20Radiation%20Theory.pdf) | Black holes evaporate via quantum radiation. |
+| 029 | Cosmic Microwave Background Anisotropy | [Cosmic Microwave Background Anisotropy.pdf](./Cosmic%20Microwave%20Background%20Anisotropy.pdf) | Tiny fluctuations in CMB reveal early universe structure. |
 
 UPCOMING
 
