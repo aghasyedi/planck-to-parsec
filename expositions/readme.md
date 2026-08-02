@@ -47,6 +47,8 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 027 | Abiogenesis | [Abiogenesis.pdf](./Abiogenesis.pdf) | Life arises naturally from non-living matter through chemical processes. |
 | 028 | Hawking Radiation Theory | [Hawking Radiation Theory.pdf](./Hawking%20Radiation%20Theory.pdf) | Black holes evaporate via quantum radiation. |
 | 029 | Cosmic Microwave Background Anisotropy | [Cosmic Microwave Background Anisotropy.pdf](./Cosmic%20Microwave%20Background%20Anisotropy.pdf) | Tiny fluctuations in CMB reveal early universe structure. |
+| 030 | Theory of Relativity (General) | [Theory of Relativity (General).pdf](./Theory%20of%20Relativity%20(General).pdf) | Albert Einstein: Gravity is space-time curvature. |
+| 031 | Theory of Relativity (Special) | [Theory of Relativity (Special).pdf](./Theory%20of%20Relativity%20(Special).pdf) | Albert Einstein: Time and space are relative; light speed is constant. |
 
 UPCOMING
 
