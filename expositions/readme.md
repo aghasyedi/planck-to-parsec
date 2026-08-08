@@ -49,9 +49,13 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 029 | Cosmic Microwave Background Anisotropy | [Cosmic Microwave Background Anisotropy.pdf](./Cosmic%20Microwave%20Background%20Anisotropy.pdf) | Tiny fluctuations in CMB reveal early universe structure. |
 | 030 | Theory of Relativity (General) | [Theory of Relativity (General).pdf](./Theory%20of%20Relativity%20(General).pdf) | Albert Einstein: Gravity is space-time curvature. |
 | 031 | Theory of Relativity (Special) | [Theory of Relativity (Special).pdf](./Theory%20of%20Relativity%20(Special).pdf) | Albert Einstein: Time and space are relative; light speed is constant. |
+| 032 | Cosmic Inflation Variants | [Cosmic Inflation Variants.pdf](./Cosmic%20Inflation%20Variants.pdf) | Various models of inflation driven by different scalar fields. |
 | 033 | Quantum Mechanics | [Quantum Mechanics.pdf](./Quantum%20Mechanics.pdf) | Subatomic behavior is probabilistic. |
 | 034 | Quantum Field Theory | [Quantum Field Theory.pdf](./Quantum%20Field%20Theory.pdf) | Particles are excitations of underlying fields pervading space-time. |
 | 035 | String Theory | [String Theory.pdf](./String%20Theory.pdf) Particles are one-dimensional strings in extra dimensions. |
+
+| 036 | M-Theory  | [M-Theory.pdf](./M-Theory.pdf) | Unifies string theories with 11 dimensions. |
+| 037 | Loop Quantum Gravity | [Loop Quantum Gravity.pdf](./Loop%20Quantum%20Gravity.pdf) | Space-time is quantized into loops. |
 
 UPCOMING
 
