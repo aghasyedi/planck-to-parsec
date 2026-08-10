@@ -15,9 +15,9 @@ The manuscripts archived here bridge the gap between established formalism and t
 
 The documents have been divided into the following parts. Please click on the part below to view its specific document index:
 
-* [PART I](./PART%20I/readme.md) (Documents 0001 - 0020)
-* [PART II](./PART%20II/readme.md) (Documents 0021 - 0040)
-* [PART III](./PART%20III/readme.md) (Documents 0041 - 0042)
+* [PART I](./PART%20I) (Documents 0001 - 0020)
+* [PART II](./PART%20II) (Documents 0021 - 0040)
+* [PART III](./PART%20III) (Documents 0041 - 0042)
 
 ---
 
