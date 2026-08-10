@@ -55,6 +55,11 @@ Below is the chronological index of available technical manuscripts. Click on th
 | 035 | String Theory | [String Theory.pdf](./String%20Theory.pdf) | Particles are one-dimensional strings in extra dimensions. |
 | 036 | M-Theory  | [M-Theory.pdf](./M-Theory.pdf) | Unifies string theories with 11 dimensions. |
 | 037 | Loop Quantum Gravity | [Loop Quantum Gravity.pdf](./Loop%20Quantum%20Gravity.pdf) | Space-time is quantized into loops. |
+| 038 | AdS/CFT Correspondence | [AdS/CFT Correspondence.pdf](./AdS_CFT%20Correspondence.pdf) | Gravity dual to a boundary theory. |
+| 039 | Quantum Supremacy Concept | [Quantum Supremacy Concept.pdf](./Quantum%20Supremacy%20Concept.pdf) | Quantum computers outperform classical ones on specific tasks. |
+| 040 | GISMO Camera | [GISMO Camera.pdf](./GISMO%20Camera.pdf) | Superconducting camera for submm continuum. |
+| 041 | CMB-S4 Project | [CMB-S4 Project.pdf](./CMB-S4%20Project.pdf) | Ground-based array for CMB fine-scale mapping. |
+| 042 | Pop III Stars Theory | [Pop III Stars Theory.pdf](./Pop%20III%20Stars%20Theory.pdf) | Metal-free first generation massive stars. |
 
 UPCOMING
 
