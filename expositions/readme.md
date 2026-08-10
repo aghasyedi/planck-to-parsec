@@ -17,49 +17,48 @@ Below is the chronological index of available technical manuscripts. Click on th
 
 | Index  | Document Title / Topic | File Link | Brief Description |
 | :----: | :--- | :--- | :--- |
-| 001 | Empty Space Isn't Empty: Before the Big Bang | [Before Time: Unpacking the Pre-Big Bang Vacuum.pdf](./Before%20Time:%20Unpacking%20the%20Pre-Big%20Bang%20Vacuum.pdf) | A pre-existing state before the Bang. |
-| 002 | Big Bang Theory (Georges Lemaître) | [BigBangTheory_PrimevalAtom.pdf](./Big%20Bang%20Theory.pdf) | The universe began as a singularity and has been expanding since. |
-| 003 | Simulation Hypothesis (Nick Bostrom) | [Simulation Hypothesis.pdf](./Simulation%20Hypothesis.pdf) | Reality is a computer simulation. |
-| 004 | Simulated Multiverse (Nested Simulation Theory) | [Simulated Multiverse.pdf](./Simulated%20Multiverse.pdf) | Advanced civilizations simulate universes. |
-| 005 | Fermi Paradox | [Fermi Paradox.pdf](./Fermi%20Paradox.pdf) | Questions why we haven't detected alien life despite vast universe. |
-| 006 | Drake Equation | [Drake Equation.pdf](./Drake%20Equation.pdf) | Estimates number of communicative extraterrestrial civilizations. |
-| 007 | Multiverse Theory | [Multiverse Theory.pdf](./Multiverse%20Theory.pdf) | Multiple universes exist with varying physical laws. |
-| 008 | Many-Worlds Interpretation | [Many-Worlds Interpretation.pdf](./Many-Worlds%20Interpretation.pdf) | Quantum events spawn parallel universes. |
-| 009 | Everettian Multiverse | [Everettian Multiverse.pdf](./Everettian%20Multiverse.pdf) | Quantum measurement splits reality into branches. |
-| 010 | Holographic Principle | [Holographic Principle.pdf](./Holographic%20Principle.pdf) | Reality is encoded on a boundary surface. |
-| 011 | Inflationary Universe Theory| [Inflationary Universe Theory.pdf](./Inflationary%20Universe%20Theory.pdf) | Rapid expansion occurred shortly after the Big Bang. |
-| 012 | Mathematical Universe Hypothesis| [Mathematical Universe Hypothesis.pdf](./Mathematical%20Universe%20Hypothesis.pdf) | Everything is just a mathematical structure. |
-| 013 | Baryogenesis| [Baryogenesis.pdf](./Baryogenesis.pdf) | Matter exceeds antimatter. |
-| 014 | Dark Matter Theory| [Dark Matter Theory.pdf](./Dark%20Matter%20Theory.pdf) | Invisible matter affects gravity without emitting light. |
-| 015 |Dark Energy Theory | [Dark Energy Theory.pdf](./Dark%20Energy%20Theory.pdf) | An unknown energy drives the universe’s accelerated expansion. |
-| 016 |Black Hole Information Paradox | [Black Hole Information Paradox.pdf](./Black%20Hole%20Information%20Paradox.pdf) | Information may persist despite black hole evaporation. |
-| 017 | Black Hole Thermodynamics | [Black Hole Thermodynamics.pdf](./Black%20Hole%20Thermodynamics.pdf) | Black holes have entropy and temperature, linking gravity and quantum mechanics. |
-| 018 | Habitable Zone Theory | [Habitable Zone Theory.pdf](./Habitable%20Zone%20Theory.pdf) | Region around stars where liquid water can exist on planets. |
-| 019 | Rare Earth Hypothesis | [Rare Earth Hypothesis.pdf](./Rare%20Earth%20Hypothesis.pdf) | Complex life is rare due to specific planetary conditions. |
-| 020 | Panspermia | [Panspermia.pdf](./Panspermia.pdf) | Life seeded Earth from extraterrestrial sources. |
-| 021 | The Phantom Universe | [The Phantom Universe.pdf](./The%20Phantom%20Universe.pdf) | Exploring the cosmic speed limit, dark matter, causality, black holes, and the hidden architecture of reality beyond light. |
-| 022 | Exoplanet Atmosphere Theory| [Exoplanet Atmosphere Theory.pdf](./Exoplanet%20Atmosphere%20Theory.pdf) | Characterizes alien worlds' gases via spectroscopy. |
-| 023 | Exoplanet Migration Theory| [Exoplanet Migration Theory.pdf](./Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
-| 023 | Exoplanet Migration Theory| [Exoplanet Migration Theory.pdf](./Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
-| 024 | Shadow Biosphere | [Shadow Biosphere.pdf](./Shadow%20Biosphere.pdf) | A hidden form of life may coexist with known life on Earth. |
-| 025 | Shadow Biosphere Cosmology | [Shadow Biosphere Cosmology.pdf](./Shadow%20Biosphere%20Cosmology.pdf) | Hidden life forms coexist. |
-| 026 | Shadow Brane Theory | [Shadow Brane Theory.pdf](./Shadow%20Brane%20Theory.pdf) | Hidden branes may influence our observable universe. |
-| 027 | Abiogenesis | [Abiogenesis.pdf](./Abiogenesis.pdf) | Life arises naturally from non-living matter through chemical processes. |
-| 028 | Hawking Radiation Theory | [Hawking Radiation Theory.pdf](./Hawking%20Radiation%20Theory.pdf) | Black holes evaporate via quantum radiation. |
-| 029 | Cosmic Microwave Background Anisotropy | [Cosmic Microwave Background Anisotropy.pdf](./Cosmic%20Microwave%20Background%20Anisotropy.pdf) | Tiny fluctuations in CMB reveal early universe structure. |
-| 030 | Theory of Relativity (General) | [Theory of Relativity (General).pdf](./Theory%20of%20Relativity%20(General).pdf) | Albert Einstein: Gravity is space-time curvature. |
-| 031 | Theory of Relativity (Special) | [Theory of Relativity (Special).pdf](./Theory%20of%20Relativity%20(Special).pdf) | Albert Einstein: Time and space are relative; light speed is constant. |
-| 032 | Cosmic Inflation Variants | [Cosmic Inflation Variants.pdf](./Cosmic%20Inflation%20Variants.pdf) | Various models of inflation driven by different scalar fields. |
-| 033 | Quantum Mechanics | [Quantum Mechanics.pdf](./Quantum%20Mechanics.pdf) | Subatomic behavior is probabilistic. |
-| 034 | Quantum Field Theory | [Quantum Field Theory.pdf](./Quantum%20Field%20Theory.pdf) | Particles are excitations of underlying fields pervading space-time. |
-| 035 | String Theory | [String Theory.pdf](./String%20Theory.pdf) | Particles are one-dimensional strings in extra dimensions. |
-| 036 | M-Theory  | [M-Theory.pdf](./M-Theory.pdf) | Unifies string theories with 11 dimensions. |
-| 037 | Loop Quantum Gravity | [Loop Quantum Gravity.pdf](./Loop%20Quantum%20Gravity.pdf) | Space-time is quantized into loops. |
-| 038 | AdS/CFT Correspondence | [AdS/CFT Correspondence.pdf](./AdS_CFT%20Correspondence.pdf) | Gravity dual to a boundary theory. |
-| 039 | Quantum Supremacy Concept | [Quantum Supremacy Concept.pdf](./Quantum%20Supremacy%20Concept.pdf) | Quantum computers outperform classical ones on specific tasks. |
-| 040 | GISMO Camera | [GISMO Camera.pdf](./GISMO%20Camera.pdf) | Superconducting camera for submm continuum. |
-| 041 | CMB-S4 Project | [CMB-S4 Project.pdf](./CMB-S4%20Project.pdf) | Ground-based array for CMB fine-scale mapping. |
-| 042 | Pop III Stars Theory | [Pop III Stars Theory.pdf](./Pop%20III%20Stars%20Theory.pdf) | Metal-free first generation massive stars. |
+| 0001 | Empty Space Isn't Empty: Before the Big Bang | [0001_Before Time: Unpacking the Pre-Big Bang Vacuum.pdf](./PART%20I/0001_Before%20Time:%20Unpacking%20the%20Pre-Big%20Bang%20Vacuum.pdf) | A pre-existing state before the Bang. |
+| 0002 | Big Bang Theory (Georges Lemaître) | [0002_Big Bang Theory.pdf](./PART%20I/0002_Big%20Bang%20Theory.pdf) | The universe began as a singularity and has been expanding since. |
+| 0003 | Simulation Hypothesis (Nick Bostrom) | [0003_Simulation Hypothesis.pdf](./PART%20I/0003_Simulation%20Hypothesis.pdf) | Reality is a computer simulation. |
+| 0004 | Simulated Multiverse (Nested Simulation Theory) | [0004_Simulated Multiverse.pdf](./PART%20I/0004_Simulated%20Multiverse.pdf) | Advanced civilizations simulate universes. |
+| 0005 | Fermi Paradox | [0005_Fermi Paradox.pdf](./PART%20I/0005_Fermi%20Paradox.pdf) | Questions why we haven't detected alien life despite vast universe. |
+| 0006 | Drake Equation | [0006_Drake Equation.pdf](./PART%20I/0006_Drake%20Equation.pdf) | Estimates number of communicative extraterrestrial civilizations. |
+| 0007 | Multiverse Theory | [0007_Multiverse Theory.pdf](./PART%20I/0007_Multiverse%20Theory.pdf) | Multiple universes exist with varying physical laws. |
+| 0008 | Many-Worlds Interpretation | [0008_Many-Worlds Interpretation.pdf](./PART%20I/0008_Many-Worlds%20Interpretation.pdf) | Quantum events spawn parallel universes. |
+| 0009 | Everettian Multiverse | [0009_Everettian Multiverse.pdf](./PART%20I/0009_Everettian%20Multiverse.pdf) | Quantum measurement splits reality into branches. |
+| 0010 | Holographic Principle | [0010_Holographic Principle.pdf](./PART%20I/0010_Holographic%20Principle.pdf) | Reality is encoded on a boundary surface. |
+| 0011 | Inflationary Universe Theory| [0011_Inflationary Universe Theory.pdf](./PART%20I/0011_Inflationary%20Universe%20Theory.pdf) | Rapid expansion occurred shortly after the Big Bang. |
+| 0012 | Mathematical Universe Hypothesis| [0012_Mathematical Universe Hypothesis.pdf](./PART%20I/0012_Mathematical%20Universe%20Hypothesis.pdf) | Everything is just a mathematical structure. |
+| 0013 | Baryogenesis| [0013_Baryogenesis.pdf](./PART%20I/0013_Baryogenesis.pdf) | Matter exceeds antimatter. |
+| 0014 | Dark Matter Theory| [0014_Dark Matter Theory.pdf](./PART%20I/0014_Dark%20Matter%20Theory.pdf) | Invisible matter affects gravity without emitting light. |
+| 0015 |Dark Energy Theory | [0015_Dark Energy Theory.pdf](./PART%20I/0015_Dark%20Energy%20Theory.pdf) | An unknown energy drives the universe’s accelerated expansion. |
+| 0016 |Black Hole Information Paradox | [0016_Black Hole Information Paradox.pdf](./PART%20I/0016_Black%20Hole%20Information%20Paradox.pdf) | Information may persist despite black hole evaporation. |
+| 0017 | Black Hole Thermodynamics | [0017_Black Hole Thermodynamics.pdf](./PART%20I/0017_Black%20Hole%20Thermodynamics.pdf) | Black holes have entropy and temperature, linking gravity and quantum mechanics. |
+| 0018 | Habitable Zone Theory | [0018_Habitable Zone Theory.pdf](./PART%20I/0018_Habitable%20Zone%20Theory.pdf) | Region around stars where liquid water can exist on planets. |
+| 0019 | Rare Earth Hypothesis | [0019_Rare Earth Hypothesis.pdf](./PART%20I/0019_Rare%20Earth%20Hypothesis.pdf) | Complex life is rare due to specific planetary conditions. |
+| 0020 | Panspermia | [0020_Panspermia.pdf](./PART%20I/0020_Panspermia.pdf) | Life seeded Earth from extraterrestrial sources. |
+| 0021 | The Phantom Universe | [0021_The Phantom Universe.pdf](./PART%20II/0021_The%20Phantom%20Universe.pdf) | Exploring the cosmic speed limit, dark matter, causality, black holes, and the hidden architecture of reality beyond light. |
+| 0022 | Exoplanet Atmosphere Theory| [0022_Exoplanet Atmosphere Theory.pdf](./PART%20II/0022_Exoplanet%20Atmosphere%20Theory.pdf) | Characterizes alien worlds' gases via spectroscopy. |
+| 0023 | Exoplanet Migration Theory| [0023_Exoplanet Migration Theory.pdf](./PART%20II/0023_Exoplanet%20Migration%20Theory.pdf) | Planets move inward due to disk interactions. |
+| 0024 | Shadow Biosphere | [0024_Shadow Biosphere.pdf](./PART%20II/0024_Shadow%20Biosphere.pdf) | A hidden form of life may coexist with known life on Earth. |
+| 0025 | Shadow Biosphere Cosmology | [0025_Shadow Biosphere Cosmology.pdf](./PART%20II/0025_Shadow%20Biosphere%20Cosmology.pdf) | Hidden life forms coexist. |
+| 0026 | Shadow Brane Theory | [0026_Shadow Brane Theory.pdf](./PART%20II/0026_Shadow%20Brane%20Theory.pdf) | Hidden branes may influence our observable universe. |
+| 0027 | Abiogenesis | [0027_Abiogenesis.pdf](./PART%20II/0027_Abiogenesis.pdf) | Life arises naturally from non-living matter through chemical processes. |
+| 0028 | Hawking Radiation Theory | [0028_Hawking Radiation Theory.pdf](./PART%20II/0028_Hawking%20Radiation%20Theory.pdf) | Black holes evaporate via quantum radiation. |
+| 0029 | Cosmic Microwave Background Anisotropy | [0029_Cosmic Microwave Background Anisotropy.pdf](./PART%20II/0029_Cosmic%20Microwave%20Background%20Anisotropy.pdf) | Tiny fluctuations in CMB reveal early universe structure. |
+| 0030 | Theory of Relativity (General) | [0030_Theory of Relativity (General).pdf](./PART%20II/0030_Theory%20of%20Relativity%20(General).pdf) | Albert Einstein: Gravity is space-time curvature. |
+| 0031 | Theory of Relativity (Special) | [0031_Theory of Relativity (Special).pdf](./PART%20II/0031_Theory%20of%20Relativity%20(Special).pdf) | Albert Einstein: Time and space are relative; light speed is constant. |
+| 0032 | Cosmic Inflation Variants | [0032_Cosmic Inflation Variants.pdf](./PART%20II/0032_Cosmic%20Inflation%20Variants.pdf) | Various models of inflation driven by different scalar fields. |
+| 0033 | Quantum Mechanics | [0033_Quantum Mechanics.pdf](./PART%20II/0033_Quantum%20Mechanics.pdf) | Subatomic behavior is probabilistic. |
+| 0034 | Quantum Field Theory | [0034_Quantum Field Theory.pdf](./PART%20II/0034_Quantum%20Field%20Theory.pdf) | Particles are excitations of underlying fields pervading space-time. |
+| 0035 | String Theory | [0035_String Theory.pdf](./PART%20II/0035_String%20Theory.pdf) | Particles are one-dimensional strings in extra dimensions. |
+| 0036 | M-Theory  | [0036_M-Theory.pdf](./PART%20II/0036_M-Theory.pdf) | Unifies string theories with 11 dimensions. |
+| 0037 | Loop Quantum Gravity | [0037_Loop Quantum Gravity.pdf](./PART%20II/0037_Loop%20Quantum%20Gravity.pdf) | Space-time is quantized into loops. |
+| 0038 | AdS/CFT Correspondence | [0038_AdS_CFT Correspondence.pdf](./PART%20II/0038_AdS_CFT%20Correspondence.pdf) | Gravity dual to a boundary theory. |
+| 0039 | Quantum Supremacy Concept | [0039_Quantum Supremacy Concept.pdf](./PART%20II/0039_Quantum%20Supremacy%20Concept.pdf) | Quantum computers outperform classical ones on specific tasks. |
+| 0040 | GISMO Camera | [0040_GISMO Camera.pdf](./PART%20II/0040_GISMO%20Camera.pdf) | Superconducting camera for submm continuum. |
+| 0041 | CMB-S4 Project | [0041_CMB-S4 Project.pdf](./PART%20III/0041_CMB-S4%20Project.pdf) | Ground-based array for CMB fine-scale mapping. |
+| 0042 | Pop III Stars Theory | [0042_Pop III Stars Theory.pdf](./PART%20III/0042_Pop%20III%20Stars%20Theory.pdf) | Metal-free first generation massive stars. |
 
 UPCOMING
 
