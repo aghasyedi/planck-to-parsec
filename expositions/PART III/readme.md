@@ -16,3 +16,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0046 | Warped Dimensions | [0046_Warped Dimensions.pdf](./0046_Warped%20Dimensions.pdf) | Dimensions are geometrically warped. |
 | 0047 | Warped Passages | [0047_Warped Passages.pdf](./0047_Warped%20Passages.pdf) | Gravity in warped geometry. |
 | 0048 | BLAST-TNG | [0048_BLAST-TNG.pdf](./0048_BLAST-TNG.pdf) | Next-gen balloon for submm polarimetry. |
+| 0049 | Emergent Space-Time | [0049_Emergent Space-Time.pdf](./0049_Emergent%20Space-Time.pdf) | Space and time arise from fundamental quantum entanglement. |
+| 0050 | Directed Panspermia Cosmology | [0050_Directed Panspermia Cosmology.pdf](./0050_Directed%20Panspermia%20Cosmology.pdf) | Intentional distribution of life throughout the cosmos. |
+| 0051 | Fractal Bubble Universe | [0051_Fractal Bubble Universe.pdf](./0051_Fractal%20Bubble%20Universe.pdf) | Universe structured as a self-similar fractal of expanding bubbles. |
+| 0052 | DESI Mock Challenge | [0052_DESI Mock Challenge.pdf](./0052_DESI%20Mock%20Challenge.pdf) | Simulated datasets to test the Dark Energy Spectroscopic Instrument. |
+| 0053 | Fractal Gravity | [0053_Fractal Gravity.pdf](./0053_Fractal%20Gravity.pdf) | Gravitational physics operating on fractal geometric structures. |
