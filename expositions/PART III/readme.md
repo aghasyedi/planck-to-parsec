@@ -21,3 +21,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0051 | Fractal Bubble Universe | [0051_Fractal Bubble Universe.pdf](./0051_Fractal%20Bubble%20Universe.pdf) | Universe structured as a self-similar fractal of expanding bubbles. |
 | 0052 | DESI Mock Challenge | [0052_DESI Mock Challenge.pdf](./0052_DESI%20Mock%20Challenge.pdf) | Simulated datasets to test the Dark Energy Spectroscopic Instrument. |
 | 0053 | Fractal Gravity | [0053_Fractal Gravity.pdf](./0053_Fractal%20Gravity.pdf) | Gravitational physics operating on fractal geometric structures. |
+| 0054 | Lunar Crater Radio Telescope | [0054_Lunar Crater Radio Telescope.pdf](./0054_Lunar%20Crater%20Radio%20Telescope.pdf) | Moon-based low-frequency array. |
+| 0055 | CORE-M5 | [0055_CORE-M5.pdf](./0055_CORE-M5.pdf) | CMB orbiter for B-modes and foregrounds. |
+| 0056 | Quantum Fluctuation Origin | [0056_Quantum Fluctuation Origin.pdf](./0056_Quantum%20Fluctuation%20Origin.pdf) | The universe arose from a fluctuation. |
+| 0057 | Non-Commutative Geometry | [0057_Non-Commutative Geometry.pdf](./0057_Non-Commutative%20Geometry.pdf) | Space-time has a fuzzy structure. |
+| 0058 | Tachyonic Cosmology | [0058_Tachyonic Cosmology.pdf](./0058_Tachyonic%20Cosmology.pdf) | Faster-than-light particles drive expansion. |
