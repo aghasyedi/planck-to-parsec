@@ -26,3 +26,5 @@ Below is the chronological index of available technical manuscripts in this part
 | 0056 | Quantum Fluctuation Origin | [0056_Quantum Fluctuation Origin.pdf](./0056_Quantum%20Fluctuation%20Origin.pdf) | The universe arose from a fluctuation. |
 | 0057 | Non-Commutative Geometry | [0057_Non-Commutative Geometry.pdf](./0057_Non-Commutative%20Geometry.pdf) | Space-time has a fuzzy structure. |
 | 0058 | Tachyonic Cosmology | [0058_Tachyonic Cosmology.pdf](./0058_Tachyonic%20Cosmology.pdf) | Faster-than-light particles drive expansion. |
+| 0059 | Planck Star Hypothesis | [0059_Planck Star Hypothesis.pdf](./0059_Planck%20Star%20Hypothesis.pdf) | Quantum gravity bounce prevents singularity formation in collapsing stars. |
+| 0060 | Quantum Internet Concept | [0060_Quantum Internet Concept.pdf](./0060_Quantum%20Internet%20Concept.pdf) | Global quantum network via entangled states and quantum repeaters. |
