@@ -21,3 +21,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0071 | Cyclic Inflation Cosmology | [0071_Cyclic Inflation Cosmology.pdf](./0071_Cyclic%20Inflation%20Cosmology.pdf) | Inflation repeats in cycles. |
 | 0072 | Event Horizon Cosmology | [0072_Event Horizon Cosmology.pdf](./0072_Event%20Horizon%20Cosmology.pdf) | Horizons shape universal evolution. |
 | 0073 | Quantum Neural Network | [0073_Quantum Neural Network.pdf](./0073_Quantum%20Neural%20Network.pdf) | Quantum circuits mimic classical neural networks. |
+| 0074 | Monopole Baryogenesis | [0074_Monopole Baryogenesis.pdf](./0074_Monopole%20Baryogenesis.pdf) | Magnetic monopoles produce baryons. |
+| 0075 | Bimetric Gravity | [0075_Bimetric Gravity.pdf](./0075_Bimetric%20Gravity.pdf) | Two metrics govern gravity. |
+| 0076 | Digital Physics | [0076_Digital Physics.pdf](./0076_Digital%20Physics.pdf) | The universe operates like a giant quantum computer. |
+| 0077 | Entropic Force Cosmology | [0077_Entropic Force Cosmology.pdf](./0077_Entropic%20Force%20Cosmology.pdf) | Forces from entropy gradients. |
+| 0078 | Non-Commutative Cosmology | [0078_Non-Commutative Cosmology.pdf](./0078_Non-Commutative%20Cosmology.pdf) | Fuzzy space-time affects universe expansion. |
