@@ -26,3 +26,5 @@ Below is the chronological index of available technical manuscripts in this part
 | 0076 | Digital Physics | [0076_Digital Physics.pdf](./0076_Digital%20Physics.pdf) | The universe operates like a giant quantum computer. |
 | 0077 | Entropic Force Cosmology | [0077_Entropic Force Cosmology.pdf](./0077_Entropic%20Force%20Cosmology.pdf) | Forces from entropy gradients. |
 | 0078 | Non-Commutative Cosmology | [0078_Non-Commutative Cosmology.pdf](./0078_Non-Commutative%20Cosmology.pdf) | Fuzzy space-time affects universe expansion. |
+| 0079 | Tachyonic Star | [0079_Tachyonic Star.pdf](./0079_Tachyonic%20Star.pdf) | Stars from faster-than-light matter. |
+| 0080 | Cosmic Darwinism | [0080_Cosmic Darwinism.pdf](./0080_Cosmic%20Darwinism.pdf) | Universes evolve competitively. |
