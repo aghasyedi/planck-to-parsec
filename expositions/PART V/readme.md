@@ -11,3 +11,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0081 | Loop Quantum Baryogenesis | [0081_Loop Quantum Baryogenesis.pdf](./0081_Loop%20Quantum%20Baryogenesis.pdf) | Loop quantum gravity effects produce baryons. |
 | 0082 | Quantum Brane Theory | [0082_Quantum Brane Theory.pdf](./0082_Quantum%20Brane%20Theory.pdf) | Branes with quantum effects. |
 | 0083 | Disk Instability Model | [0083_Disk Instability Model.pdf](./0083_Disk%20Instability%20Model.pdf) | Rapid formation of gas giants via disk fragmentation. |
+| 0084 | Supergravity | [0084_Supergravity.pdf](./0084_Supergravity.pdf) | Gravity with supersymmetry. (Authors: Daniel Freedman, Sergio Ferrara, Peter van Nieuwenhuizen) |
+| 0085 | GUSTO Balloon | [0085_GUSTO Balloon.pdf](./0085_GUSTO%20Balloon.pdf) | Terahertz balloon for Milky Way mapping. (Author: Christopher Walker) |
+| 0086 | ARIES Telescopes | [0086_ARIES Telescopes.pdf](./0086_ARIES%20Telescopes.pdf) | Indian observatory suite. |
+| 0087 | Kaluza-Klein Cosmology | [0087_Kaluza-Klein Cosmology.pdf](./0087_Kaluza-Klein%20Cosmology.pdf) | Extra dimensions influence cosmic expansion. |
+| 0088 | Neutrino-Driven Cosmology | [0088_Neutrino-Driven Cosmology.pdf](./0088_Neutrino-Driven%20Cosmology.pdf) | Neutrinos influence expansion. |
