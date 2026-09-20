@@ -16,3 +16,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0086 | ARIES Telescopes | [0086_ARIES Telescopes.pdf](./0086_ARIES%20Telescopes.pdf) | Indian observatory suite. |
 | 0087 | Kaluza-Klein Cosmology | [0087_Kaluza-Klein Cosmology.pdf](./0087_Kaluza-Klein%20Cosmology.pdf) | Extra dimensions influence cosmic expansion. |
 | 0088 | Neutrino-Driven Cosmology | [0088_Neutrino-Driven Cosmology.pdf](./0088_Neutrino-Driven%20Cosmology.pdf) | Neutrinos influence expansion. |
+| 0089 | Tianlai | [0089_Tianlai.pdf](./0089_Tianlai.pdf) | Chinese 21cm cylinder array. (Author: Xuelei Chen) |
+| 0090 | Solipsism Hypothesis | [0090_Solipsism Hypothesis.pdf](./0090_Solipsism%20Hypothesis.pdf) | Only your mind exists; everything else is your imagination. (Author: René Descartes (philosophical roots)) |
+| 0091 | Griqua Asteroids | [0091_Griqua Asteroids.pdf](./0091_Griqua%20Asteroids.pdf) | 2:1 resonance in outer belt. |
+| 0092 | Retrocausality | [0092_Retrocausality.pdf](./0092_Retrocausality.pdf) | Future events influence the past. (Author: Huw Price) |
+| 0093 | Quantum Support Vector Machine | [0093_Quantum Support Vector Machine.pdf](./0093_Quantum%20Support%20Vector%20Machine.pdf) | Classifies data with quantum kernel methods. (Author: Patrick Rebentrost) |
