@@ -21,3 +21,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0091 | Griqua Asteroids | [0091_Griqua Asteroids.pdf](./0091_Griqua%20Asteroids.pdf) | 2:1 resonance in outer belt. |
 | 0092 | Retrocausality | [0092_Retrocausality.pdf](./0092_Retrocausality.pdf) | Future events influence the past. (Author: Huw Price) |
 | 0093 | Quantum Support Vector Machine | [0093_Quantum Support Vector Machine.pdf](./0093_Quantum%20Support%20Vector%20Machine.pdf) | Classifies data with quantum kernel methods. (Author: Patrick Rebentrost) |
+| 0094 | OVRO-LWA | [0094_OVRO-LWA.pdf](./0094_OVRO-LWA.pdf) | Long wavelength array at Owens Valley. (Author: Gregg Hallinan) |
+| 0095 | Thermal Universe | [0095_Thermal Universe.pdf](./0095_Thermal%20Universe.pdf) | Heat defines cosmic evolution. |
+| 0096 | Cold Dark Matter | [0096_Cold Dark Matter.pdf](./0096_Cold%20Dark%20Matter.pdf) | Slow-moving particles drive structure formation. (Author: James Peebles) |
+| 0097 | Anti-de Sitter Universe | [0097_Anti-de Sitter Universe.pdf](./0097_Anti-de%20Sitter%20Universe.pdf) | A negatively curved space-time. (Author: Willem de Sitter) |
+| 0098 | CMB-S4 Forecasting | [0098_CMB-S4 Forecasting.pdf](./0098_CMB-S4%20Forecasting.pdf) | Simulations for next-gen CMB experiments. |
