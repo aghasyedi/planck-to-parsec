@@ -26,3 +26,5 @@ Below is the chronological index of available technical manuscripts in this part
 | 0096 | Cold Dark Matter | [0096_Cold Dark Matter.pdf](./0096_Cold%20Dark%20Matter.pdf) | Slow-moving particles drive structure formation. (Author: James Peebles) |
 | 0097 | Anti-de Sitter Universe | [0097_Anti-de Sitter Universe.pdf](./0097_Anti-de%20Sitter%20Universe.pdf) | A negatively curved space-time. (Author: Willem de Sitter) |
 | 0098 | CMB-S4 Forecasting | [0098_CMB-S4 Forecasting.pdf](./0098_CMB-S4%20Forecasting.pdf) | Simulations for next-gen CMB experiments. |
+| 0099 | Diffusion Monte Carlo | [0099_Diffusion Monte Carlo.pdf](./0099_Diffusion%20Monte%20Carlo.pdf) | Projects to ground state using imaginary time evolution. (Author: James Anderson) |
+| 0100 | Teleparallel Gravity | [0100_Teleparallel Gravity.pdf](./0100_Teleparallel%20Gravity.pdf) | Gravity via torsion, not curvature. (Author: Albert Einstein (explored variant)) |
