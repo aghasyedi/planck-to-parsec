@@ -16,3 +16,8 @@ Below is the chronological index of available technical manuscripts in this part
 | 0106 | Pilot Wave Baryogenesis | [0106_Pilot Wave Baryogenesis.pdf](./0106_Pilot%20Wave%20Baryogenesis.pdf) | Pilot waves influence matter creation. |
 | 0107 | Topological Quantum Computing | [0107_Topological Quantum Computing.pdf](./0107_Topological%20Quantum%20Computing.pdf) | Uses anyons for fault-tolerant quantum computation. (Author: Alexei Kitaev) |
 | 0108 | Circumbinary Planet Theory | [0108_Circumbinary Planet Theory.pdf](./0108_Circumbinary%20Planet%20Theory.pdf) | Planets orbiting binary stars stably. (Author: Josh Carter) |
+| 0109 | Blue Cloud of Galaxies | [0109_Blue Cloud of Galaxies.pdf](./0109_Blue%20Cloud%20of%20Galaxies.pdf) | Star-forming galaxies in color-magnitude diagram. (Author: Ivan Baldry) |
+| 0110 | Secondary Bias | [0110_Secondary Bias.pdf](./0110_Secondary%20Bias.pdf) | Small halos cluster more than expected. (Author: Anatoly Klypin) |
+| 0111 | Conformal Field Theory | [0111_Conformal Field Theory.pdf](./0111_Conformal%20Field%20Theory.pdf) | Field theories invariant under conformal transformations, key in string theory. (Author: Alexander Polyakov) |
+| 0112 | Neutrino Baryogenesis | [0112_Neutrino Baryogenesis.pdf](./0112_Neutrino%20Baryogenesis.pdf) | Neutrinos play a key role in matter creation. |
+| 0113 | Quantum Graphity | [0113_Quantum Graphity.pdf](./0113_Quantum%20Graphity.pdf) | Space-time emerges from a graph structure. (Author: Fotini Markopoulou) |
